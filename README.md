@@ -1,4 +1,5 @@
-
+# Notes-share-
+Notes-share helps users quickly create and share notes anytime, anywhere.
 <!-- 
 # NoteShare - Share Your Notes!
 
